@@ -3,6 +3,7 @@ Datasets of molecules that are "certified" for diffusion Monte Carlo calculation
 the citations for each dataset 
 
 **Data File Format**
+
 Number of atoms  
 Energy (hartree)  
 Atom label and cartesian coords (angstrom) gradient components if included  (hartree/bohr)”
