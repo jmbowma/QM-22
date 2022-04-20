@@ -2,11 +2,9 @@
 Datasets of molecules that are "certified" for diffusion Monte Carlo calculations of the zero-point state.  Here are
 the citations for each dataset 
 
-## Data File Format
-Number of atoms
-
-Energy (hartree)
-
+**Data File Format**
+Number of atoms  
+Energy (hartree)  
 Atom label and cartesian coords (angstrom) gradient components if included  (hartree/bohr)”
 
 **Ethanol**
