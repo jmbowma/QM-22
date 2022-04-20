@@ -2,6 +2,11 @@
 Datasets of molecules that are "certified" for diffusion Monte Carlo calculations of the zero-point state.  Here are
 the citations for each dataset 
 
+## Format
+Number of atoms
+Energy (hartree)
+Atom label and cartesian coords (angstrom) gradient components if included  (hartree/bohr)”
+
 **Ethanol**
 
 “Permutationally invariant polynomial regression for energies and gradients using backward differentiation achieves orders of magnitude speed-up while keeping high precision compared to other machine learning methods”, Houston et al. J. Chem. Phys. 156, 044120 (2022)
