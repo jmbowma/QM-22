@@ -42,7 +42,7 @@ Dataset from “Unimolecular dissociation dynamics of vibrationally activated CH
 
 Dataset (B3LYP energies and gradients) from “Full-dimensional, ab initio potential energy surface for glycine with characterization of stationary points and zero-point energy calculations by means of diffusion Monte Carlo and semiclassical dynamics“, Conte et al.,  J. Chem. Phys. 153, 244301 (2020)
 
-**Troplone **
+**Troplone**
 
 Dataset (energies and gradients) from “Permutationally Invariant Polynomial Potential Energy Surfaces for Tropolone and H atom Tunneling Dynamics”,Houston et al, J. Chem. Phys. 153 024107 (2020).
 
@@ -50,6 +50,6 @@ Dataset (energies and gradients) from “Permutationally Invariant Polynomial Po
 
 Dataset (energy and gradients) from “Full and fragmented permutationally invariant polynomial potential energy surfaces for transand cis N-methyl acetamide and isomerization saddle points”, Nandi et al, J. Chem. Phys. 151, 084306 (2019).
 
-**H3O, OCHCO+ H2CO/cis-trans HOCO, (HCOOH)2**
+**H3O+, OCHCO+ H2CO/cis-trans HOCO, (HCOOH)2**
 
 Datasets (energies only) from “Assessing Gaussian Process Regression and Permutationally Invariant Polynomial Approaches To Represent High-Dimensional Potential Energy Surfaces” Qu et at. J. Chem.Theory Comput.14, 3381 (2018)
