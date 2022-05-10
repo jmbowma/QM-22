@@ -31,10 +31,12 @@ CCSD(T) and MRCI energies
 CCSD(T)
 
 “Intersystem crossing and dynamics in O(3P)+C2H4 multichannel reaction: Experiment validates theory”, Fu, et al., Proc. Nat. Acad. Sci. 109, 9733 (2012).
-Methane
+
+**Methane**
 
 Dataset (B3LYP energies and gradients) from “Using Gradients in Permutationally Invariant Polynomial Potential Fitting: A Demonstration for CH4 Using as Few as 100 Configurations”, Nandi et al.  J. Chem. Theory Comput. 2019, 15, 2826−2835
-syn-CH3CHOO
+
+**syn-CH3CHOO**
 
 Dataset from “Unimolecular dissociation dynamics of vibrationally activated CH3CHOO Criegee intermediates to OH radical products”, Kidwell et al, Nat. Chem. 8, 509–514 (2016)
 
