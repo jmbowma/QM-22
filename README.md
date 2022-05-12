@@ -13,14 +13,14 @@ Atom label and cartesian coords (angstrom) gradient components if included  (har
 
 CCSD(T) and MRCI energies
 
-“Quasiclassical trajectory calculations of the dissociation dynamics of CH3CHO at high energy yield many products”, Han, et al., J. Phys. Chem. Lett. 2, 1715 (2011).
-“Photodissociation of CH3CHO at 248 nm: identification of the channels of roaming, triple fragmentation and the transition state”, Han, et al., Phys. Chem. Chem. Phys. 19, 18628 (2017).
+“Quasiclassical trajectory calculations of the dissociation dynamics of CH<sub>3</sub>CHO at high energy yield many products”, Han, et al., J. Phys. Chem. Lett. 2, 1715 (2011).
+“Photodissociation of CH<sub>3</sub>CHO at 248 nm: identification of the channels of roaming, triple fragmentation and the transition state”, Han, et al., Phys. Chem. Chem. Phys. 19, 18628 (2017).
 
 **Acetaldehyde (triplet)**
 
 CCSD(T) energies
 
-“Intersystem crossing and dynamics in O(3P)+C2H4 multichannel reaction: Experiment validates theory”, Fu, et al., Proc. Nat. Acad. Sci. 109, 9733 (2012).
+“Intersystem crossing and dynamics in O(<sup>3</sup>P)+C<sub>2</sub>H<sub>4</sub> multichannel reaction: Experiment validates theory”, Fu, et al., Proc. Nat. Acad. Sci. 109, 9733 (2012).
 
 **Ethanol**
 
@@ -42,13 +42,13 @@ CCSD(T)/CBS energies
 
 B3LYP energies and gradients
 
-“Using Gradients in Permutationally Invariant Polynomial Potential Fitting: A Demonstration for CH4 Using as Few as 100 Configurations”, Nandi et al.  J. Chem. Theory Comput. 2019, 15, 2826−2835
+“Using Gradients in Permutationally Invariant Polynomial Potential Fitting: A Demonstration for CH<sub>4</sub> Using as Few as 100 Configurations”, Nandi et al.  J. Chem. Theory Comput. 2019, 15, 2826−2835
 
-**syn-CH<sub>2</sub>CHOO**
+**syn-CH<sub>3</sub>CHOO**
 
 CCSD(T)/MRCI energies only
 
-“Unimolecular dissociation dynamics of vibrationally activated CH3CHOO Criegee intermediates to OH radical products”, Kidwell et al, Nat. Chem. 8, 509–514 (2016)
+“Unimolecular dissociation dynamics of vibrationally activated CH<sub>3</sub>CHOO Criegee intermediates to OH radical products”, Kidwell et al, Nat. Chem. 8, 509–514 (2016)
 
 **Tropolone**
 
@@ -62,7 +62,7 @@ B3LYP energies and gradients
 
 “Full and fragmented permutationally invariant polynomial potential energy surfaces for transand cis N-methyl acetamide and isomerization saddle points”, Nandi et al, J. Chem. Phys. 151, 084306 (2019).
 
-**Hydronium, OCHCO<sup>+</sup>, H<sub>2</sub>CO/cis-trans HCOH, formic acid dimer**
+**Hydronium H<sub>3</sub>O<sup>+</sup>, OCHCO<sup>+</sup>, H<sub>2</sub>CO/cis-trans HCOH, formic acid dimer**
 
 Energies only
 
@@ -70,7 +70,8 @@ Energies only
 
 **Summary**
 
-| Molecule  | Number of data points |  Energies  |  Gradients |
-| ------------- | ------------- |-------------|-----------|
-| Content Cell  | Content Cell  | ss |  ss |
-| Content Cell  | Content Cell  |  ss  |  ss |
+| Molecule | Number of data points | Energies | Gradients |
+| --------- | -------------------- | -------- | --------- |
+| Acetaldehyde (singlet)  | 202,518 | CCSD(T)/MRCI | No |
+| Acetaldehyde (triplet)  |  51,530 | CCSD(T)      | No |
+
