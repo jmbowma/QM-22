@@ -72,8 +72,8 @@ CCSD(T) or MRCI energies only
 
 **Summary**
 
-| Molecule | NH<sub>points</sub>points | Energies | Gradients |
-| -------- | ------------------------: | -------: | :-------: |
+| Molecule | N<sub>points</sub> | Energies | Gradients |
+| -------- | -----------------: | -------: | :-------: |
 | Acetaldehyde (singlet)               | 202,518 | CCSD(T)/MRCI |  No |
 | Acetaldehyde (triplet)               |  51,530 | CCSD(T)      |  No |
 | Ethanol                              |  11,011 | B3LYP        | Yes |
