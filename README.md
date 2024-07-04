@@ -10,7 +10,7 @@ Energy (hartree)
 Atom label and cartesian coords (angstrom) gradient components if included  (hartree/bohr)”
 
 
-** n-tetradecane C14H30 ** not DMC certified
+**n-tetradecane C14H30** not DMC certified
 
 B3LYP energies and gradients
 
