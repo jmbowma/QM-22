@@ -9,9 +9,9 @@ Number of atoms
 Energy (hartree)  
 Atom label and cartesian coords (angstrom) gradient components if included  (hartree/bohr)”
 
-**Acetaldehyde (singlet)**
+**n-tetradecane C14H30**
 
-CCSD(T) and MRCI energies
+B3LYP energies
 
 “Quasiclassical trajectory calculations of the dissociation dynamics of CH<sub>3</sub>CHO at high energy yield many products”, Han, et al., J. Phys. Chem. Lett. 2, 1715 (2011).
 “Photodissociation of CH<sub>3</sub>CHO at 248 nm: identification of the channels of roaming, triple fragmentation and the transition state”, Han, et al., Phys. Chem. Chem. Phys. 19, 18628 (2017).
