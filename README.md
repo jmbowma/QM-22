@@ -10,11 +10,11 @@ Energy (hartree)
 Atom label and cartesian coords (angstrom) gradient components if included  (hartree/bohr)”
 
 
-**n-tetradecane C14H30** not DMC certified
+**n-tetradecane C<sub>14</sub>H<sub>30</sub>**
 
-B3LYP energies and gradients
+B3LYP energies and gradients, not DMC certified
 
-Dynamics Calculations of the Flexibility of \ce{C14H30} Using  Permutationally Invariant Polynomial Potentials, Qu et al.
+DFT-Based Permutationally Invariant Polynomial Potentials Capture the Twists and Turns of C<sub>14</sub>H<sub>30</sub>, Qu et al. (in preparation)
 
 **Acetaldehyde (singlet)**
 
