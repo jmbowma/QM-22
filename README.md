@@ -81,6 +81,7 @@ CCSD(T) or MRCI energies only
 
 | Molecule | N<sub>points</sub> | Energies | Gradients |
 | -------- | -----------------: | -------: | :-------: |
+| n-tetradecane                        | 253,646 | B3LYP        | Yes |
 | Acetaldehyde (singlet)               | 202,518 | CCSD(T)/MRCI |  No |
 | Acetaldehyde (triplet)               |  51,530 | CCSD(T)      |  No |
 | Ethanol                              |  11,011 | B3LYP        | Yes |
