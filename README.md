@@ -14,7 +14,13 @@ Atom label and cartesian coords (angstrom) gradient components if included  (har
 
 B3LYP energies and gradients, not DMC certified
 
-DFT-Based Permutationally Invariant Polynomial Potentials Capture the Twists and Turns of C<sub>14</sub>H<sub>30</sub>, Qu et al. (in preparation)
+“DFT-Based Permutationally Invariant Polynomial Potentials Capture the Twists and Turns of C<sub>14</sub>H<sub>30</sub>”, Qu, et al. (in preparation)
+
+**NaCl-H<sub>2</sub> interaction**
+
+CCSD(T)/aug-cc-pVTZ energies. These are interaction energies (that is, E<sub>int</sub> = E<sub>dimer</sub> - E<sub>NaCl</sub> - E<sub>hydrogen</sub>
+
+“Ab Initio Potential Energy Surface for NaCl−H<sub>2</sub> with Correct Long-Range Behavior”, Pandey, et al., J. Phys. Chem. A 128, 902 (2024)
 
 **Acetaldehyde (singlet)**
 
@@ -82,6 +88,7 @@ CCSD(T) or MRCI energies only
 | Molecule | N<sub>points</sub> | Energies | Gradients |
 | -------- | -----------------: | -------: | :-------: |
 | n-tetradecane                        | 253,646 | B3LYP        | Yes |
+| NaCl-H<sub>2</sub>                   | 281,031 | CCSD(T)      |  No |
 | Acetaldehyde (singlet)               | 202,518 | CCSD(T)/MRCI |  No |
 | Acetaldehyde (triplet)               |  51,530 | CCSD(T)      |  No |
 | Ethanol                              |  11,011 | B3LYP        | Yes |
