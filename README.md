@@ -85,15 +85,11 @@ CCSD(T) or MRCI energies only
 
 **Hydroxide Hydrate H<sub>3</sub>O<sub>2</sub><sup>-</sup>**
 
-H3O2M @ 6dade4a submodule is linked to a GitHub repository with potential and data set for Hydroxide Hydrate. 
+H3O2M @ 6dade4a submodule is linked to a GitHub repository with sGDML potential and the corresponding dataset for Hydroxide Hydrate. 
 
-The dataset was described and first reported in Mrinal Arandhara and Sai G. Ramesh “Nuclear Quantum Effects in Hydroxide Hydrate Along
+The dataset was described and first reported in Mrinal Arandhara and Sai G. Ramesh “Nuclear Quantum Effects in Hydroxide Hydrate Along the H-Bond Bifurcation Pathway”. J. Phys. Chem. A 2024, 128, 1600-1610.
 
-the H-Bond Bifurcation Pathway”. J. Phys. Chem. A 2024, 128, 1600-1610.
-
-It was subsequently used in Priyanka Pandey, Mrinal Arandhara, Paul L. Houston, Chen Qu, Riccardo Conte, Joel M. Bowman,
-
-and Sai G. Ramesh, “Assessing Permutationally Invariant Polynomial and Symmetric Gradient Domain Machine Learning Potential Energy Surfaces for H3O2-” J. Phys. Chem. A 2024, 128, 3212–3219
+It was subsequently used in Priyanka Pandey, Mrinal Arandhara, Paul L. Houston, Chen Qu, Riccardo Conte, Joel M. Bowman, and Sai G. Ramesh, “Assessing Permutationally Invariant Polynomial and Symmetric Gradient Domain Machine Learning Potential Energy Surfaces for H3O2-” J. Phys. Chem. A 2024, 128, 3212–3219
 
 **Summary**
 
