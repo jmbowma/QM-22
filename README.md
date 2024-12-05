@@ -1,5 +1,5 @@
 # QM-22
-Datasets of molecules that are "certified" for diffusion Monte Carlo calculations of the zero-point state, except as noted.  Here are
+Datasets of molecules many of which "certified" for diffusion Monte Carlo calculations of the zero-point state, except as noted.  Here are
 the citations for each dataset.  Details of how the datasets were generated are molecule-specific and are given in these
 papers.  
 
