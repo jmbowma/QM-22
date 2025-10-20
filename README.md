@@ -91,6 +91,10 @@ The dataset was described and first reported in Mrinal Arandhara and Sai G. Rame
 
 It was subsequently used in Priyanka Pandey, Mrinal Arandhara, Paul L. Houston, Chen Qu, Riccardo Conte, Joel M. Bowman, and Sai G. Ramesh, “Assessing Permutationally Invariant Polynomial and Symmetric Gradient Domain Machine Learning Potential Energy Surfaces for H3O2-” J. Phys. Chem. A 2024, 128, 3212–3219
 
+**Zundel H<sub>5</sub>O<sub>2</sub><sup>+</sup>**
+
+The dataset was first reported in Xinchuan Huang, Bastiaan J. Braams, Jeol M. Bowman, “Ab initio potential energy and dipole moment surfaces for H5O2+”, J. Chem. Phys. 2005, 122, 044308
+
 **Summary**
 
 | Molecule | N<sub>points</sub> | Energies | Gradients |
@@ -110,3 +114,4 @@ It was subsequently used in Priyanka Pandey, Mrinal Arandhara, Paul L. Houston, 
 | OCHCO<sup>+</sup>                    |   7,800 | CCSD(T)      |  No |
 | Tropolone                            |   6,768 | B3LYP        | Yes |
 | syn-CH<sub>3</sub>CHOO               | 159,474 | CCSD(T)/MRCI |  No |
+| Zundel                               |  48,149 | CCSD(T)      |  No |
